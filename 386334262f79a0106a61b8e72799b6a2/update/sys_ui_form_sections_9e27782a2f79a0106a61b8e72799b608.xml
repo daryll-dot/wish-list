@@ -21,12 +21,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d227782a2f79a0106a61b8e72799b657</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_572081_wish_list_wish_item" name="x_572081_wish_list_wish_item" sys_domain="global" view="Default view">9e27782a2f79a0106a61b8e72799b608</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_572081_wish_list_wish_item" sys_domain="global" view="Default view">d627782a2f79a0106a61b8e72799b607</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_572081_wish_list_wish_item" sys_domain="global" view="Default view">1227782a2f79a0106a61b8e72799b608</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-22 01:36:27</sys_updated_on>
+            <sys_updated_on>2021-01-22 01:41:54</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
